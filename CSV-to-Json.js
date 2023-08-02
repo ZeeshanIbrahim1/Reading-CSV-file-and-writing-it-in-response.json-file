@@ -1,6 +1,6 @@
 const fs = require('fs');
 const csvFilePath = './data.csv'; 
-const jsonFilePath = './outputAct.json';
+const jsonFilePath = './response.json';
 const jsonData = {};
 let processed = false;
 
